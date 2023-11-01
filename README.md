@@ -2,14 +2,25 @@
 
 > This is a framework to help your team to build a guide to AI assisted software engineering.
 
-## What it is
-For those seeking to quickly adopt AI in software engineering, our framework is the solution they want. Unlike a comprehensive book, our framework is tailored for leaders and engineers. It can be customized to fit their specific needs, create their own guidance for the team itself. The framework is designed to be flexible, making it the ideal tool for those who need to streamline the integration of AI into software engineering processes.
+## How to use this framework
+You can think of this project as a template and tool that can help you introduce AI-assisted R&D within your team. Based on this project, you can set your team's own AI-assisted R&D guide and select tools for your team. Set norms, share knowledge, optimize processes, and more
 
-## Framework design
-* Tools selection: This category focuses on the selection and usage of specific tools, and platforms for AI-assisted software development life cycle.
-* Knowledge sharing: Knowledge sharing includes public & internal knowledge, it emphasizes fostering a collaborative environment where knowledge are shared effectively among team members.
-* Standards & practices: Standards and practices are essential for AI-assisted software engineering. This category includes regulatory compliance, development practices, quality assurance methods specifically, etc.
-* Architecture & design: This category emphasizes the need for AI to understand the software architecture design and planning. It covers the essential architecture and design information and how to prepare for AI to understand.
+## Run as a web app
+You can fork this project and modify it to meet your team's needs. You can also run it as a web app. The web app is based on [docsify](https://docsify.js.org/). You can run it with the following command:
+
+For English users:
+```bash
+docsify serve docs_en 
+```
+For Chinese users:
+```bash
+docsify serve docs_cn 
+```
+
+Any questions about docsify, please refer to [docsify quickstart](https://docsify.js.org/#/quickstart).
+
+## How to contribute
+Feel free to contribute to this project via pull requests, issues, etc.
 
 <br>
 Powered by hivemind
