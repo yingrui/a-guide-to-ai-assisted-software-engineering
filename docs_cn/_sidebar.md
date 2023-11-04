@@ -1,2 +1,2 @@
-* [Preface](/)
-* [Guide](guide.md)
+* [前言](/)
+* [指南](guide.md)

@@ -1,12 +1,12 @@
-## Introduction
+## 1. 简介
 
-### Purpose
-This guide is to help BA, Dev, QA, and PM to practice AI assisted SDLC, and facilitate the seamless integration of AI into the Software Development Life Cycle (SDLC). This guide offers methodology, prompts, practical tools, and best practices. It is designed to encourage and promote that AI becomes a central element of the SDLC, leading to innovation and continuous improvement in the software development process.
+### 1.1 目标
+这个指南是为了帮助业务分析师、软件工程师、质量工程师和项目经理等角色，实践AI辅助的软件开发生命周期（SDLC, Software Development Life Cycle），并促进AI无缝集成到软件开发生命周期中。这个指南提供了方法论、提示、实用工具和最佳实践。它旨在鼓励和推动AI成为SDLC的核心元素，从而在软件开发过程中引领创新和持续改进。
 
-## Methodology
+## 2. 工具
 
-## Tools
+## 3. 知识库
 
-## Practice
+## 4. 实践
 
-## Guideline
+## 5. 提示工程指南

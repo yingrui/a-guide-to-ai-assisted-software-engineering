@@ -1,15 +1,51 @@
-# Guide to AI Assisted Software Engineering
+# AI辅助软件工程指南
 
-> This is a framework to help your team to build a guide to AI assisted software engineering.
+> 这是一个用来帮助您及您的团队快速构建AI辅助软件工程指南的框架。
 
-## What it is
-For those seeking to quickly adopt AI in software engineering, our framework is the solution they want. Unlike a comprehensive book, our framework is tailored for leaders and engineers. It can be customized to fit their specific needs, create their own guidance for the team itself. The framework is designed to be flexible, making it the ideal tool for those who need to streamline the integration of AI into software engineering processes.
+## 1. 框架说明
+对于希望开始尝试AI辅助软件工程的朋友，可能需要一个框架来帮助自己或团队快速上手。不同于一本书，这个框架更像是为技术团队和软件工程师设计一个模版。可以结合自身情况进行定制，为团队创建适合于他们自己的指南。
 
-## Framework design
-* Tools selection: This category focuses on the selection and usage of specific tools, and platforms for AI-assisted software development life cycle.
-* Knowledge sharing: Knowledge sharing includes public & internal knowledge, it emphasizes fostering a collaborative environment where knowledge are shared effectively among team members.
-* Standards & practices: Standards and practices are essential for AI-assisted software engineering. This category includes regulatory compliance, development practices, quality assurance methods specifically, etc.
-* Architecture & design: This category emphasizes the need for AI to understand the software architecture design and planning. It covers the essential architecture and design information and how to prepare for AI to understand.
+## 2. 框架设计
 
-<br>
-Powered by hivemind
+### 2.1 展望未来
+我们先大胆猜测：
+* **AI工具和方法**的适当应用可以显著提高生产力。
+* **必要的知识管理和文档**将在提高工程效率中发挥关键作用。
+* 与**生成性AI相关的软件技术和架构**正在迅速发展。
+* AI可以对**工作方式、流程、个人和团队能力建设**带来巨大的变化。
+
+如果这是真的，那么我们需要：
+* 寻找适当的**AI工具和方法**来提高生产力。
+* 构建**轻量化知识库和文档**，以便AI可以理解上下文。
+* 不断**监控、评估和应用AI技术**到软件架构中。
+* **改革工作方式、流程、个人和团队能力建设**以适应AI时代。
+
+在这个指南中，我们将重点关注前两点，同时我们也将讨论实践。希望这些内容能帮助我们预见未来。
+
+### 2.2 当前SDLC的时间浪费
+根据我们对当前行业状态的观察，我们发现了交付过程中的五个关键浪费领域。
+* **查找信息** - 难以立即获得正确的信息
+* **开发者体验** - 需要一个副驾驶帮助编码
+* **质量反馈循环慢** - 难以及时获得反馈
+* **认知负荷/任务切换** - 需要学习的东西太多，需要处理的任务太多
+
+### 2.3 AI辅助软件工程框架
+为了解决这些问题，团队可以关注以下几个方面：
+* **工具**
+  * 一个改善开发者体验的代理，它可以：
+    * 从知识库和互联网中搜索，并立即提供正确的信息。
+    * 与开发者合作生成解决方案、原型、测试用例等。
+  * 一个IDE插件作为副驾驶帮助编码和其他文本生成。
+  * 各种工具来提高质量反馈循环、架构设计和其他方面。
+* **知识** 
+  * 一个知识库提供和内部信息，包括：规格、需求、架构和设计文档、测试用例等。
+* **流程和实践**
+  * 使用这些工具进行SDLC的方法和最佳实践
+* **架构和设计**
+  * 创建AI和人类都能理解的文档的方法
+
+因此，以下类别是一个框架，设计用来帮助我们快速开始AI辅助的SDLC。
+* **工具**：这个类别关注AI辅助软件开发生命周期的特定工具的选择和使用。
+* **知识**：它强调培养一个合作环境，在团队成员之间有效地分享公共和内部知识。
+* **流程和实践**：这个类别包括开发实践，与不同角色协调等。
+* **架构和设计**：这个类别强调AI需要理解软件架构设计和规划。它涵盖了如何为AI理解做准备。

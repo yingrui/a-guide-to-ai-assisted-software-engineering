@@ -2,18 +2,12 @@
 
 > This is a framework to help your team to build a guide to AI assisted software engineering.
 
-## What it is
+## 1. What it is
 For those seeking to quickly adopt AI in software engineering, our framework is the solution they want. Unlike a comprehensive book, our framework is tailored for leaders and engineers. It can be customized to fit their specific needs, create their own guidance for the team itself. The framework is designed to be flexible, making it the ideal tool for those who need to streamline the integration of AI into software engineering processes.
 
-## Framework design
-* Tools: This category focuses on the selection and usage of specific tools for AI-assisted software development life cycle.
-* Knowledge: It emphasizes fostering a collaborative environment where public & internal knowledge are shared effectively among team members.
-* Process & practices: This category includes development practices, coordinate with different roles, etc.
-* Architecture & design: This category emphasizes the need for AI to understand the software architecture design and planning. It covers how to prepare for AI to understand.
+## 2. Framework design
 
-## Methodology
-
-### Looking into the future
+### 2.1 Looking into the future
 Let's first list some assertions:
 1. Proper application of **AI tools and methods** can significantly increase productivity.
 2. **Necessary knowledge management and documentation** will play a key role in improving engineering efficiency.
@@ -28,15 +22,15 @@ If it's true, then we need to:
 
 In this guide, we will focus on the first two points. And we will discuss the practices, and it may help us to foresee the future.
 
-### Problems in the current SDLC
+### 2.2 Time wasted in current SDLC
 Based on our observation of the current state of the industry, we have found five key areas of waste in the delivery process.
 * Finding information - hard to get the right information immediately
 * Developer experience - need a copilot to help with the coding
 * Slow quality feedback loops - difficult to get the feedback in time
 * Cognitive overload / task switching - too many things to learn, and too many tasks to handle 
 
-### AI assisted SDLC
-In order to solve these problems, we need focus on the following aspects:
+### 2.3 AI assisted SDLC and Framework
+In order to solve these problems, team can focus on the following aspects:
 * Tools 
   * An agent to improve the developer experience, it can: 
     * Search from the knowledge base and internet, and provide the right information immediately.
@@ -45,11 +39,13 @@ In order to solve these problems, we need focus on the following aspects:
   * Various tools to improve the quality feedback loops, architecture design, and other aspects.
 * Knowledge:
   * A knowledge base to provide and internal information, includes: specifications, requirements, architecture & design documents, test cases, etc.
-* Process and practices:
+* Process & practices:
   * Methods and best practices to use these tools for SDLC
 * Architecture & design:
   * Methods to create documents that both AI and human can understand
 
-
-<br>
-Powered by hivemind
+Therefore, the following categories are a framework designed to help us quickly get started with AI assisted SDLC.
+* Tools: This category focuses on the selection and usage of specific tools for AI-assisted software development life cycle.
+* Knowledge: It emphasizes fostering a collaborative environment where public & internal knowledge are shared effectively among team members.
+* Process & practices: This category includes development practices, coordinate with different roles, etc.
+* Architecture & design: This category emphasizes the need for AI to understand the software architecture design and planning. It covers how to prepare for AI to understand.
